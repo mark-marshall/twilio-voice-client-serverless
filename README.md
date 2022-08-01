@@ -8,7 +8,7 @@ This is an implementation of a backend service that can be used to support a Twi
 3) A /receive call endpoint which the inbound Twilio number is pointed to and connects the caller with the client.
 
 ## Set-up
-Before running anything loally, make sure that you have done the following:
+Before you get started, make sure that you have done the following:
 
 1) Create a new API Key in the Twilio Console [here](https://console.twilio.com/us1/account/keys-credentials/api-keys?frameUrl=%2Fconsole%2Fproject%2Fapi-keys%3Fx-target-region%3Dus1). 
 2) Create a new TiML App in the Twilio Console [here](https://console.twilio.com/us1/develop/voice/manage/twiml-apps?frameUrl=%2Fconsole%2Fvoice%2Ftwiml%2Fapps%3Fx-target-region%3Dus1).
