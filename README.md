@@ -13,6 +13,7 @@ Before you get started, make sure that you have done the following:
 1) Create a new API Key in the Twilio Console [here](https://console.twilio.com/us1/account/keys-credentials/api-keys?frameUrl=%2Fconsole%2Fproject%2Fapi-keys%3Fx-target-region%3Dus1). 
 2) Create a new TiML App in the Twilio Console [here](https://console.twilio.com/us1/develop/voice/manage/twiml-apps?frameUrl=%2Fconsole%2Fvoice%2Ftwiml%2Fapps%3Fx-target-region%3Dus1).
 3) Create a .env file which contains all necessary variables according to the .env.example attributes. 
+4) run `npm install`
 
 ## Local Development
 To run this locally, you should have installed both the [Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart) and the associated [Twilio Servless Toolkit Plugin](https://www.twilio.com/docs/labs/serverless-toolkit/getting-started). You can then get the functions running locally with the following command:
