@@ -10,8 +10,8 @@ This is an implementation of a backend service that can be used to support a Twi
 ## Set-up
 Before running anything loally, make sure that you have done the following:
 
-1) Create a new API Key in the Twilio Console [here] (https://console.twilio.com/us1/account/keys-credentials/api-keys?frameUrl=%2Fconsole%2Fproject%2Fapi-keys%3Fx-target-region%3Dus1). 
-2) Create a new TiML App in the Twilio Console [here] (https://console.twilio.com/us1/develop/voice/manage/twiml-apps?frameUrl=%2Fconsole%2Fvoice%2Ftwiml%2Fapps%3Fx-target-region%3Dus1).
+1) Create a new API Key in the Twilio Console [here](https://console.twilio.com/us1/account/keys-credentials/api-keys?frameUrl=%2Fconsole%2Fproject%2Fapi-keys%3Fx-target-region%3Dus1). 
+2) Create a new TiML App in the Twilio Console [here](https://console.twilio.com/us1/develop/voice/manage/twiml-apps?frameUrl=%2Fconsole%2Fvoice%2Ftwiml%2Fapps%3Fx-target-region%3Dus1).
 3) Create a .env file which contains all necessary variables according to the .env.example attributes. 
 
 ## Local Development
@@ -28,4 +28,4 @@ To deploy the functions to your Twilio account, make sure that you are logged in
 
 ```twilio serverless:deploy```
 
-You should be able to see the deployed functioned within the Twilio Console [here] (https://console.twilio.com/us1/develop/functions/services?frameUrl=%2Fconsole%2Ffunctions%2Foverview%2Fservices%3Fx-target-region%3Dus1).
+You should be able to see the deployed functioned within the Twilio Console [here](https://console.twilio.com/us1/develop/functions/services?frameUrl=%2Fconsole%2Ffunctions%2Foverview%2Fservices%3Fx-target-region%3Dus1).
