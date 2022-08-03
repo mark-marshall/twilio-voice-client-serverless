@@ -1,5 +1,5 @@
 {
-  "name": "yorbl-functions",
+  "name": "twilio-voice-client-serverless",
   "version": "0.0.0",
   "private": true,
   "scripts": {
